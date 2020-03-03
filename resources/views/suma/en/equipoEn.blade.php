@@ -42,7 +42,7 @@
                         <div class="tarjeta-subtitle">
                             <h5 class="text-muted">Founding partner.</h5>
                         </div>
-                        <div class="tarjeta-body">
+                        <div class="tarjeta-body altotarjeta">
                             <p class="text-muted m-0 p-0 mb-1">Degree in Business Science. </p>
                             <p class="text-muted m-0 p-0 mb-1">25 years of experience in accounting and finances.</p>
                             <p class="text-muted m-0 p-0 mb-1">Professional development at Arthur Andersen / Andersen-Deloitte working with local and international clients. </p>
@@ -64,14 +64,14 @@
                         <div class="tarjeta-subtitle">
                             <h5 class="text-muted">Founding partner.</h5>
                         </div>
-                        <div class="tarjeta-body">
+                        <div class="tarjeta-body altotarjeta">
                             <p class="text-muted m-0 p-0 mb-1">Degree in Business Administration.</p>
                             <p class="text-muted m-0 p-0 mb-1">20 years of experience in accounting and finances.</p>
                             <p class="text-muted m-0 p-0 mb-1">Professional development at Arthur Andersen / Andersen-Deloitte working with local and international clients.
                             </p>
                             <p class="text-muted m-0 p-0 mb-1">Freelancer since 2010.</p>
                         </div>
-                        <div class="tarjeta-footer">
+                        <div class="tarjeta-footer px-0">
                             <a href="mailto:susana.martinez@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> susana.martinez@sumaempresa.com</a>
                             <br>
                             <span class="text-muted"><i class="fas fa-mobile-alt"></i> 696 22 36 72</span>
@@ -133,13 +133,13 @@
                 <div class="col-md-6 mb-3">
                     <div class="tarjeta p-3">
                         <div class="tarjeta-title mt-3">
-                            <img src="{{ asset('storage/img/clip_naranja_150x150.jpg')}}" alt="Miriam Marin" class="img-fluid rounded-circle w-20 mb-3">
+                            <img src="{{ asset('storage/img/clip_naranja_150x150.jpg')}}" alt="Miriam Marin" class="img-fluid rounded-circle w-25 mb-3">
                             <h3>Miriam Marin</h3>
                         </div>
                         <div class="tarjeta-subtitle">
                             <h5 class="text-muted">Administrative technician.</h5>
                         </div>
-                        <div class="tarjeta-body">
+                        <div class="tarjeta-body altotarjeta">
                             <p class="text-muted m-0 p-0 mb-1">15 years of experience in management and accounting at SME's. </p>
                             <p class="text-muted m-0 p-0 mb-1">Focused on outsourced accounting at SME's.</p>
                             <p class="text-muted m-0 p-0 mb-1">Freelancer since 2012.</p>
@@ -150,29 +150,28 @@
                             <span class="text-muted"><i class="fas fa-mobile-alt"></i> 690 07 61 54</span>
                         </div>
                     </div>
-                    <div class="col-md-6 mb-3">
-                        <div class="tarjeta p-3">
-                            <div class="tarjeta-title mt-3">
-                                <img src="{{ asset('storage/img/clip_gris_150x150.jpg')}}" alt="Jordi Musumeci" class="img-fluid rounded-circle w-25 mb-3">
-                                <h3>Jordi Musumeci Guirado</h3>
-                            </div>
-                            <div class="tarjeta-subtitle">
-                                <h5 class="text-muted">Licenciado en Derecho. </h5>
-                            </div>
-                            <div class="tarjeta-body altotarjeta">
-                                <p class="text-muted m-0 p-0 mb-1">Máster de Práctica Jurídica en el Ilustre Colegio de Abogados de Terrassa.</p>
-                                <p class="text-muted m-0 p-0 mb-1">Abogado en ejercicio desde 1996.</p>
-                                <p class="text-muted m-0 p-0 mb-1">Técnico Laboral y en Gestión de Nóminas desde 1999.</p>
-                                <p class="text-muted m-0 p-0 mb-1">Desde 2012 profesional independiente.</p>
-                            </div>
-                            <div class="tarjeta-footer">
-                                <a href="mailto:jordi.musumeci@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> jordi.musumeci@sumaempresa.com</a>
-                                <br>
-                                <span class="text-muted"><i class="fas fa-mobile-alt"></i> 678 75 90 35</span>
-                            </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <div class="tarjeta p-3">
+                        <div class="tarjeta-title mt-3">
+                            <img src="{{ asset('storage/img/clip_gris_150x150.jpg')}}" alt="Jordi Musumeci" class="img-fluid rounded-circle w-25 mb-3">
+                            <h3>Jordi Musumeci Guirado</h3>
+                        </div>
+                        <div class="tarjeta-subtitle">
+                            <h5 class="text-muted">Graduate in Law. </h5>
+                        </div>
+                        <div class="tarjeta-body altotarjeta">
+                            <p class="text-muted m-0 p-0 mb-1">Masters in legal practice by the Illustrorious Bar Association of Terrassa.</p>
+                            <p class="text-muted m-0 p-0 mb-1">Practicing lawyer since 1996.</p>
+                            <p class="text-muted m-0 p-0 mb-1">Certifed competent technitian in RRHH specialised in payroll management since 1999.</p>
+                            <p class="text-muted m-0 p-0 mb-1">Freelance worker since 2012.</p>
+                        </div>
+                        <div class="tarjeta-footer">
+                            <a href="mailto:jordi.musumeci@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> jordi.musumeci@sumaempresa.com</a>
+                            <br>
+                            <span class="text-muted"><i class="fas fa-mobile-alt"></i> 678 75 90 35</span>
                         </div>
                     </div>
-    
                 </div>
             </div>
         </div>
