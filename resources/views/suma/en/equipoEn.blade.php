@@ -36,7 +36,7 @@
                 <div class="col-md-6 mb-3">
                     <div class="tarjeta p-3">
                         <div class="tarjeta-title mt-3">
-                            <img src="{{ asset('storage/img/marta.jpg')}}" alt="Marta Ruiz" class="img-fluid rounded-circle w-50 mb-3">
+                            <img src="{{ asset('storage/img/clip_azul_150x150.jpg')}}" alt="Marta Ruiz" class="img-fluid rounded-circle w-20 mb-3">
                             <h3>Marta Ruiz</h3>
                         </div>
                         <div class="tarjeta-subtitle">
@@ -58,7 +58,7 @@
                 <div class="col-md-6 mb-3">
                     <div class="tarjeta p-3">
                         <div class="tarjeta-title mt-3">
-                            <img src="{{ asset('storage/img/susana.jpg')}}" alt="Susana Ruiz" class="img-fluid rounded-circle w-50 mb-3">
+                            <img src="{{ asset('storage/img/clip_rojo_150x150.jpg')}}" alt="Susana Ruiz" class="img-fluid rounded-circle w-20 mb-3">
                             <h3>Susana Martinez</h3>
                         </div>
                         <div class="tarjeta-subtitle">
@@ -83,7 +83,7 @@
                 <div class="col-md-6 mb-3">
                     <div class="tarjeta p-3">
                         <div class="tarjeta-title mt-3">
-                            <img src="{{ asset('storage/img/alex.jpg')}}" alt="Alexander Arregui" class="img-fluid rounded-circle w-50 mb-3">
+                            <img src="{{ asset('storage/img/clip_verde_150x150.jpg')}}" alt="Alexander Arregui" class="img-fluid rounded-circle w-20 mb-3">
                             <h3>Alexander Arregui</h3>
                         </div>
                         <div class="tarjeta-subtitle">
@@ -108,7 +108,7 @@
                 <div class="col-md-6 mb-3">
                     <div class="tarjeta p-3">
                         <div class="tarjeta-title mt-3">
-                            <img src="{{ asset('storage/img/dolors.jpg')}}" alt="Dolors Celdrán" class="img-fluid rounded-circle w-50 mb-3">
+                            <img src="{{ asset('storage/img/clip_rosa_150x150.jpg')}}" alt="Dolors Celdrán" class="img-fluid rounded-circle w-20 mb-3">
                             <h3>Dolors Celdrán</h3>
                         </div>
                         <div class="tarjeta-subtitle">
@@ -130,10 +130,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 mb-3 offset-md-3">
+                <div class="col-md-6 mb-3">
                     <div class="tarjeta p-3">
                         <div class="tarjeta-title mt-3">
-                            <img src="{{ asset('storage/img/miriam.jpg')}}" alt="Miriam Marin" class="img-fluid rounded-circle w-50 mb-3">
+                            <img src="{{ asset('storage/img/clip_naranja_150x150.jpg')}}" alt="Miriam Marin" class="img-fluid rounded-circle w-20 mb-3">
                             <h3>Miriam Marin</h3>
                         </div>
                         <div class="tarjeta-subtitle">
@@ -150,6 +150,29 @@
                             <span class="text-muted"><i class="fas fa-mobile-alt"></i> 690 07 61 54</span>
                         </div>
                     </div>
+                    <div class="col-md-6 mb-3">
+                        <div class="tarjeta p-3">
+                            <div class="tarjeta-title mt-3">
+                                <img src="{{ asset('storage/img/clip_gris_150x150.jpg')}}" alt="Jordi Musumeci" class="img-fluid rounded-circle w-25 mb-3">
+                                <h3>Jordi Musumeci Guirado</h3>
+                            </div>
+                            <div class="tarjeta-subtitle">
+                                <h5 class="text-muted">Licenciado en Derecho. </h5>
+                            </div>
+                            <div class="tarjeta-body altotarjeta">
+                                <p class="text-muted m-0 p-0 mb-1">Máster de Práctica Jurídica en el Ilustre Colegio de Abogados de Terrassa.</p>
+                                <p class="text-muted m-0 p-0 mb-1">Abogado en ejercicio desde 1996.</p>
+                                <p class="text-muted m-0 p-0 mb-1">Técnico Laboral y en Gestión de Nóminas desde 1999.</p>
+                                <p class="text-muted m-0 p-0 mb-1">Desde 2012 profesional independiente.</p>
+                            </div>
+                            <div class="tarjeta-footer">
+                                <a href="mailto:jordi.musumeci@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> jordi.musumeci@sumaempresa.com</a>
+                                <br>
+                                <span class="text-muted"><i class="fas fa-mobile-alt"></i> 678 75 90 35</span>
+                            </div>
+                        </div>
+                    </div>
+    
                 </div>
             </div>
         </div>

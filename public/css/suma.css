@@ -1,5 +1,6 @@
 /* GENERICO */
 
+
 .mr-105,
 .mx-105 {
     margin-right: 0 !important;
@@ -92,6 +93,11 @@
     flex: 8;
 }
 
+
+.w-20 {
+    width: 20% !important;
+  }
+  
 /* NAV */
 .navbar {
     border-bottom: #3490dc 2px solid;
