@@ -17,9 +17,9 @@
                     <p class="text-justify text-muted m-0 p-0 mb-1">
                         The team of business support is formed by a group of professionals specialised in multiple areas.</p>
 		    <p class="text-justify text-muted m-0 p-0 mb-1">  We count with a hudge experience, gained over many years of work in different environments and companies.</p>
-                    <p class="text-justify text-muted m-0 p-0 mb-1">Therefore we are highly qualified proffesionals and prepared to offer 
+                    <p class="text-justify text-muted m-0 p-0 mb-1">Therefore we are highly qualified proffesionals and prepared to offer
 			outstanding quality and solutions for our customers, regardless of their size or typology.</p>
-                    <p class="text-justify text-muted m-0 p-0 mb-1">We also have collaborators, that have been carefully selected, 
+                    <p class="text-justify text-muted m-0 p-0 mb-1">We also have collaborators, that have been carefully selected,
 			that complement us so we can offer many financial services that are not in our portfolio. We aim to provide a complete and centralised service to our customers.</p>
                 </div>
                 <div class="col-md-6">
@@ -174,5 +174,49 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <div class="tarjeta p-3">
+                        <div class="tarjeta-title mt-3">
+                            <img src="{{ asset('storage/img/clip_verde_150x150.jpg')}}" alt="Jordi Musumeci" class="img-fluid rounded-circle w-25 mb-3">
+                            <h3>Marta Carmona</h3>
+                        </div>
+                        <div class="tarjeta-subtitle">
+                            <h5 class="text-muted">Degree in administration and business management. </h5>
+                        </div>
+
+                        <div class="tarjeta-body altotarjeta">
+                            <p class="text-muted m-0 p-0 mb-1">10 years of experience in accounting, auditing and finance.</p>
+                            <p class="text-muted m-0 p-0 mb-1">Professional development in the firms Mazars Spain and PwC working with national and international clients.</p>
+                            <p class="text-muted m-0 p-0 mb-1">Later, as financial controller in a national real estate developer associated with a real estate fund manager focused on the European market.</p>
+                        </div>
+                        <div class="tarjeta-footer">
+                            <a href="mailto:marta.carmona@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> marta.carmona@sumaempresa.com</a>
+                            <br>
+                            <span class="text-muted"><i class="fas fa-mobile-alt"></i> 650 29 81 88</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <div class="tarjeta p-3">
+                        <div class="tarjeta-title mt-3">
+                            <img src="{{ asset('storage/img/clip_azul_150x150.jpg')}}" alt="Jordi Musumeci" class="img-fluid rounded-circle w-25 mb-3">
+                            <h3>Marta Aranda</h3>
+                        </div>
+                        <div class="tarjeta-subtitle">
+                            <h5 class="text-muted">Accounting, Tax and Administration Specialist.</h5>
+                        </div>
+                        <div class="tarjeta-body altotarjeta">
+                            <p class="text-muted m-0 p-0 mb-1">Accounting, Tax and Administration Specialist with more than 15 years of experience.</p>
+                        </div>
+                        <div class="tarjeta-footer">
+                            <a href="mailto:marta.aranda@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> marta.aranda@sumaempresa.com</a>
+                            <br>
+                            <span class="text-muted"><i class="fas fa-mobile-alt"></i> 620 95 10 52</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </section>
