@@ -190,7 +190,7 @@
                         <div class="tarjeta-body altotarjeta">
                             <p class="text-muted m-0 p-0 mb-1">10  años de experiencia en contabilidad, auditoría y finanzas.</p>
                             <p class="text-muted m-0 p-0 mb-1">Desarrollo profesional en las firmas Mazars España y PwC trabajando con clientes nacionales e internacionales.</p>
-                            <p class="text-muted m-0 p-0 mb-1"> Posteriormente, como controller financiero en una promotora inmobiliaria nacional asociada con un gestor de fondos inmobiliarios centrado en el mercado europeo.</p>
+                            <p class="text-muted m-0 p-0 mb-1"> Controller financiero en sector inmobiliario.</p>
                         </div>
                         <div class="tarjeta-footer">
                             <a href="mailto:marta.carmona@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> marta.carmona@sumaempresa.com</a>
@@ -205,7 +205,7 @@
                         <h3>Marta Aranda</h3>
                     </div>
                     <div class="tarjeta-subtitle">
-                        <h5 class="text-muted">Licenciado en Derecho. </h5>
+                        <h5 class="text-muted">Técnico Administrativa  </h5>
                     </div>
                     <div class="tarjeta-body altotarjeta">
                         <p class="text-muted m-0 p-0 mb-1">Especialista Contable, Fiscal y Administración con más de 15 años de experiencia.</p>

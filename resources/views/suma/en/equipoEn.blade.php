@@ -188,7 +188,7 @@
                         <div class="tarjeta-body altotarjeta">
                             <p class="text-muted m-0 p-0 mb-1">10 years of experience in accounting, auditing and finance.</p>
                             <p class="text-muted m-0 p-0 mb-1">Professional development in the firms Mazars Spain and PwC working with national and international clients.</p>
-                            <p class="text-muted m-0 p-0 mb-1">Later, as financial controller in a national real estate developer associated with a real estate fund manager focused on the European market.</p>
+                            <p class="text-muted m-0 p-0 mb-1">Financial controller in real estate.</p>
                         </div>
                         <div class="tarjeta-footer">
                             <a href="mailto:marta.carmona@sumaempresa.com" class="text-muted"><i class="fas fa-at fa-lg"></i> marta.carmona@sumaempresa.com</a>
@@ -204,7 +204,7 @@
                             <h3>Marta Aranda</h3>
                         </div>
                         <div class="tarjeta-subtitle">
-                            <h5 class="text-muted">Accounting, Tax and Administration Specialist.</h5>
+                            <h5 class="text-muted">Administrative technician.</h5>
                         </div>
                         <div class="tarjeta-body altotarjeta">
                             <p class="text-muted m-0 p-0 mb-1">Accounting, Tax and Administration Specialist with more than 15 years of experience.</p>
